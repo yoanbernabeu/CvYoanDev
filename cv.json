@@ -1,0 +1,778 @@
+{
+  "basics": {
+    "name": "Yoan Bernabeu",
+    "label": "Chef de Projets & Lead Dev | Bâtisseur de Solutions Web | Formateur & Youtubeur Passionné",
+    "image": "me_avatar.jpg",
+    "email": "yoan.bernabeu@gmail.com",
+    "phone": "+33 6 78 85 24 12",
+    "url": "https://yoandev.co",
+    "summary": "Développeur Web Freelance, Lead Dev, Chef de Projets, Formateur indépendant, Youtubeur. Près de 20 ans d'expérience dans le secteur IT, ayant exploré des domaines variés (gestion de parc, déploiement en masse, solutions cloud...). Passionné par le DevOps, la formation, le partage et l'innovation. Créateur d'une chaîne YouTube (19k abonnés, +1M vues) et d'une plateforme de formation.\n\nAdepte du travail en équipe, de la curiosité et de l'optimisme, je suis toujours prêt à relever de nouveaux défis et à transmettre mes connaissances.",
+    "theme": "blue",
+    "location": {
+      "address": "25 rue Consulaire",
+      "postalCode": "26120",
+      "city": "Montvendre",
+      "countryCode": "FR",
+      "region": "Auvergne-Rhône-Alpes"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "yoan-bernabeu",
+        "url": "https://www.linkedin.com/in/yoan-bernabeu/"
+      },
+      {
+        "network": "X",
+        "username": "YoanDev",
+        "url": "https://twitter.com/yOyO38"
+      },
+      {
+        "network": "GitHub",
+        "username": "YoanDev",
+        "url": "https://github.com/yoanbernabeu"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "YoanDev",
+      "position": "Lead Dev (Backend)",
+      "location_type": "Remote",
+      "location": "Montvendre, France",
+      "url": "https://www.linkedin.com/company/yoandev/",
+      "startDate": "2022-06-30",
+      "endDate": null,
+      "summary": "Lead Dev Backend sur un SaaS dans le secteur agricole. Mise en place d'architectures, workflows GitOps, CI/CD, évangélisation DevOps, déploiement Cloud, sélection de solutions tierces.",
+      "highlights": [
+        "Conception d'architecture scalable",
+        "Mise en place d'un pipeline CI/CD complet"
+      ],
+      "responsibilities": [
+        "Définir l'architecture backend et les choix technologiques",
+        "Mettre en place des workflows GitOps (GitLab Flow)",
+        "Évangéliser l’approche DevOps (CI/CD, Docker, Pair Programming)",
+        "Déployer et administrer l'infrastructure Cloud",
+        "Sélectionner des services tiers (DBaaS, Stockage, Signature Électronique)"
+      ],
+      "achievements": [
+        "Contribution majeure à la création d'un SaaS innovant pour l'industrie agricole"
+      ],
+      "skills": [
+        "Symfony",
+        "PHP",
+        "DevOps",
+        "Docker",
+        "GitLab CI/CD",
+        "Cloud"
+      ]
+    },
+    {
+      "name": "YoanDev",
+      "position": "Organisateur de conférences (OpenTechCon)",
+      "location_type": "Remote",
+      "location": "Montvendre, France",
+      "url": "https://www.linkedin.com/company/yoandev/",
+      "startDate": "2024-05-31",
+      "endDate": null,
+      "summary": "Organisation d'OpenTechCon, conférence en ligne gratuite pour passionné·e·s de tech. Coordination des sponsors, intervenant·e·s, gestion de la diffusion et création d'une expérience interactive.",
+      "highlights": [
+        "1700 visiteurs uniques en une journée",
+        "10 conférences, Ignite Talks, audience internationale"
+      ],
+      "responsibilities": [
+        "Planifier et coordonner l'événement",
+        "Gérer les sponsors et intervenant·e·s",
+        "Assurer la diffusion en direct (YouTube, Twitch)",
+        "Encourager l'engagement et l'interaction avec le public"
+      ],
+      "achievements": [
+        "Lancement d'un événement tech en ligne à fort impact"
+      ],
+      "skills": [
+        "Organisation d'événements",
+        "Streaming",
+        "Communication",
+        "Gestion de projet"
+      ]
+    },
+    {
+      "name": "YoanDev",
+      "position": "Formateur indépendant",
+      "location_type": "Remote",
+      "location": "Montvendre, France",
+      "url": "https://formation.yoandev.co",
+      "startDate": "2021-09-30",
+      "endDate": null,
+      "summary": "Formations Symfony, CI/CD, environnements de dev Linux/Docker, tutoriels vidéo, mentorat, et formations sur-mesure.",
+      "highlights": [
+        "Formation Symfony 7",
+        "Formation CI/CD pour Devs",
+        "Chaîne YouTube: 19k abonnés, +1M vues"
+      ],
+      "responsibilities": [
+        "Concevoir et animer des formations techniques",
+        "Créer des contenus pédagogiques (vidéos, tutoriels)",
+        "Mentorer des apprenant·e·s dans leur parcours"
+      ],
+      "achievements": [
+        "Création d'une plateforme de formation en ligne",
+        "Impact significatif sur la communauté francophone Symfony"
+      ],
+      "skills": [
+        "Formation",
+        "Pédagogie",
+        "Symfony",
+        "CI/CD",
+        "Linux",
+        "Docker"
+      ]
+    },
+    {
+      "name": "YoanDev",
+      "position": "Développeur Web",
+      "location_type": "Remote",
+      "location": "Montvendre, France",
+      "url": "https://www.linkedin.com/company/yoandev/",
+      "startDate": "2020-11-30",
+      "endDate": null,
+      "summary": "Audit CI/CD, Lead Dev, Développement PHP/Symfony, Déploiement Cloud, améliorations de Legacy.",
+      "highlights": [
+        "Amélioration des workflows CI/CD",
+        "Refactoring et modernisation de code hérité"
+      ],
+      "responsibilities": [
+        "Effectuer des audits techniques CI/CD",
+        "Développer des fonctionnalités en PHP/Symfony",
+        "Déployer des applications sur le Cloud",
+        "Optimiser des applications Legacy"
+      ],
+      "achievements": [
+        "Rationalisation du pipeline CI/CD",
+        "Réduction de la dette technique"
+      ],
+      "skills": [
+        "PHP",
+        "Symfony",
+        "CI/CD",
+        "Cloud",
+        "Refactoring"
+      ]
+    },
+    {
+      "name": "YoanDev",
+      "position": "Youtubeur",
+      "location_type": "Remote",
+      "location": "Montvendre, France",
+      "url": "https://www.linkedin.com/company/yoandev/",
+      "startDate": "2020-11-30",
+      "endDate": null,
+      "summary": "Chaîne YouTube dédiée à Symfony et au développement web. 20k abonnés, 1.5M vues, plus de 200 vidéos.",
+      "highlights": [
+        "Création d'une communauté autour de Symfony",
+        "Contenu régulier et pédagogique"
+      ],
+      "responsibilities": [
+        "Produire et monter des vidéos pédagogiques",
+        "Interagir avec la communauté (commentaires, live)",
+        "Suivre les tendances technologiques"
+      ],
+      "achievements": [
+        "Atteinte d'une large audience francophone",
+        "Impact notable sur l'apprentissage de Symfony"
+      ],
+      "skills": [
+        "Communication",
+        "Pédagogie",
+        "Vidéo",
+        "Symfony"
+      ]
+    },
+    {
+      "name": "Alpes Isère Habitat",
+      "position": "Chef de projets IT",
+      "location_type": "Remote",
+      "location": "Montvendre, France",
+      "url": "https://www.linkedin.com/company/alpesiserehabitat/",
+      "startDate": "2019-11-30",
+      "endDate": null,
+      "summary": "Gestion de projets IT, déploiement d'infrastructures Cloud, animation DevOps, CI/CD, développement d'applications métiers (Symfony).",
+      "highlights": [
+        "Instaurer une culture DevOps",
+        "Mise en place d'applications critiques internes"
+      ],
+      "responsibilities": [
+        "Piloter des projets du cahier des charges à la livraison",
+        "Animer une démarche DevOps au sein de l'équipe",
+        "Concevoir et développer des applications métiers (Symfony)"
+      ],
+      "achievements": [
+        "Transition réussie vers le DevOps",
+        "Amélioration notable de l'efficacité de l'équipe IT"
+      ],
+      "skills": [
+        "Gestion de projet",
+        "DevOps",
+        "Symfony",
+        "Cloud",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Alpes Isère Habitat",
+      "position": "Technicien informatique",
+      "location_type": "On site",
+      "location": "Grenoble, France",
+      "url": "https://www.linkedin.com/company/alpesiserehabitat/",
+      "startDate": "2008-01-31",
+      "endDate": "2019-11-30",
+      "summary": "Gestion de parc, gestion de la demande, déploiement d'applications, stratégies de mises à jour, GPO, KMS.",
+      "highlights": [
+        "Gestion d’un parc informatique à large échelle",
+        "Déploiement automatisé de logiciels"
+      ],
+      "responsibilities": [
+        "Gérer le parc informatique (BMC)",
+        "Mettre en place et administrer des GPO",
+        "Définir la stratégie de déploiement des mises à jour",
+        "Assurer le support aux utilisateurs"
+      ],
+      "achievements": [
+        "Amélioration de la stabilité et de la sécurité du parc",
+        "Optimisation des processus de support"
+      ],
+      "skills": [
+        "Gestion de parc",
+        "Active Directory",
+        "Windows Server",
+        "BMC",
+        "Automatisation"
+      ]
+    },
+    {
+      "name": "OpenClassrooms",
+      "position": "Mentor OpenClassrooms",
+      "location_type": "Remote",
+      "location": "France",
+      "url": "https://www.linkedin.com/school/openclassrooms/",
+      "startDate": "2020-11-30",
+      "endDate": "2024-11-30",
+      "summary": "1000 sessions de mentorat. Mentor sur parcours Symfony et Technicien Informatique.",
+      "highlights": [
+        "Accompagnement de nombreux étudiants",
+        "Expertise reconnue en Symfony et IT"
+      ],
+      "responsibilities": [
+        "Mentorer des apprenants sur le parcours Symfony",
+        "Accompagner des étudiants en informatique (technicien)",
+        "Offrir un suivi personnalisé et des conseils pratiques"
+      ],
+      "achievements": [
+        "Aide à la réussite professionnelle de nombreux apprenants",
+        "Amélioration continue des compétences pédagogiques"
+      ],
+      "skills": [
+        "Mentorat",
+        "Symfony",
+        "Pédagogie",
+        "Accompagnement"
+      ]
+    },
+    {
+      "name": "Capgemini (via ACO GROUPE pour Schneider)",
+      "position": "Technicien support",
+      "location_type": "On site",
+      "location": "Montbonnot, France",
+      "url": "https://www.linkedin.com/company/capgemini/",
+      "startDate": "2007-12-31",
+      "endDate": "2008-12-31",
+      "summary": "Support niveau 2 sur Office et Lotus Notes, transfert de compétences aux équipes polonaises.",
+      "highlights": [
+        "Support technique bilingue",
+        "Transfert de compétences international"
+      ],
+      "responsibilities": [
+        "Assurer le support N2 pour les utilisateurs",
+        "Former les équipes polonaises",
+        "Résoudre les incidents sur Office et Lotus Notes"
+      ],
+      "achievements": [
+        "Amélioration de la satisfaction client",
+        "Transmission efficace du savoir-faire"
+      ],
+      "skills": [
+        "Support IT",
+        "Office",
+        "Lotus Notes",
+        "Formation interne"
+      ]
+    },
+    {
+      "name": "GEA - Grenobloise d'Electronique et d'Automatismes",
+      "position": "Technicien informatique",
+      "location_type": "On site",
+      "location": "Meylan, France",
+      "url": "https://www.linkedin.com/company/gea-grenobloise-delectronique-et-dautomatismes/",
+      "startDate": "2007-12-31",
+      "endDate": "2008-12-31",
+      "summary": "Développement de scripts d'exploitation, mise en place d'une plateforme Web (WordPress) de partage de connaissances.",
+      "highlights": [
+        "Automatisation de tâches d'exploitation",
+        "Implémentation d’un intranet collaboratif"
+      ],
+      "responsibilities": [
+        "Développer des scripts pour automatiser l'exploitation",
+        "Mettre en place un portail WordPress de partage",
+        "Assurer la maintenance de l'environnement"
+      ],
+      "achievements": [
+        "Gain de temps et de productivité grâce à l'automatisation",
+        "Amélioration de la diffusion des connaissances internes"
+      ],
+      "skills": [
+        "Scripting",
+        "WordPress",
+        "Administration Système"
+      ]
+    },
+    {
+      "name": "Getronics",
+      "position": "Technicien support",
+      "location_type": "On site",
+      "location": "Echirolles, France",
+      "url": "https://www.linkedin.com/company/getronics/",
+      "startDate": "2006-12-31",
+      "endDate": "2007-12-31",
+      "summary": "Support pour BIOMERIEUX, développement d'une interface web de gestion des messages sur répondeurs.",
+      "highlights": [
+        "Support technique pour un client sensible (BIOMERIEUX)",
+        "Création d’un outil interne de gestion de messages"
+      ],
+      "responsibilities": [
+        "Fournir un support technique aux utilisateurs",
+        "Développer une interface web pour la gestion des répondeurs",
+        "Assurer la maintenance et l'amélioration continue de l'outil"
+      ],
+      "achievements": [
+        "Réduction du temps de traitement des demandes",
+        "Amélioration de l'expérience utilisateur interne"
+      ],
+      "skills": [
+        "Support IT",
+        "Développement Web",
+        "HTML/CSS",
+        "Gestion d'applications internes"
+      ]
+    },
+    {
+      "name": "Conseil Général de la Drôme",
+      "position": "Technicien informatique",
+      "location_type": "On site",
+      "location": "Valence, France",
+      "url": "",
+      "startDate": "2004-12-31",
+      "endDate": "2006-12-31",
+      "summary": "Pilotage du renouvellement du parc d’écrans, mise en place d'un outil de supervision SDSL avec alertes SMS.",
+      "highlights": [
+        "Renouvellement complet d'un parc matériel",
+        "Supervision proactive du réseau"
+      ],
+      "responsibilities": [
+        "Gérer le déploiement et le renouvellement du matériel",
+        "Mettre en place une solution de supervision SDSL",
+        "Assurer la réception d'alertes SMS en cas d'incident"
+      ],
+      "achievements": [
+        "Amélioration de la disponibilité et de la fiabilité du réseau",
+        "Gestion de projet technique réussie"
+      ],
+      "skills": [
+        "Gestion de parc",
+        "Supervision réseau",
+        "SDSL",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "IUFM DU PACIFIQUE",
+      "position": "Développeur PHP",
+      "location_type": "On site",
+      "location": "Nouméa, Nouvelle-Calédonie",
+      "url": "",
+      "startDate": "2003-12-31",
+      "endDate": "2003-12-31",
+      "summary": "Mise en place d'une maquette PHP/MySQL pour un portail de pré-inscription des étudiants.",
+      "highlights": [
+        "Création d’un portail de pré-inscription",
+        "Développement d’un prototype fonctionnel"
+      ],
+      "responsibilities": [
+        "Concevoir et développer une maquette en PHP/MySQL",
+        "Faciliter le processus de pré-inscription des étudiants"
+      ],
+      "achievements": [
+        "Première expérience en développement web",
+        "Validation d'un concept fonctionnel"
+      ],
+      "skills": [
+        "PHP",
+        "MySQL",
+        "Développement Web"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "FESTIVAL NEZ ROUGE 38",
+      "position": "Trésorier",
+      "url": "https://www.linkedin.com/company/festival-nez-rouge-38/",
+      "startDate": "2008-12-31",
+      "endDate": "2012-12-31",
+      "summary": "Organisation de concerts, gestion financière de l'association.",
+      "highlights": [
+        "Gestion financière et logistique",
+        "Soutien à la scène musicale locale"
+      ]
+    },
+    {
+      "organization": "FOCUS GRENOBLE",
+      "position": "Président",
+      "url": "https://www.linkedin.com/company/focus-grenoble/",
+      "startDate": "2009-12-31",
+      "endDate": "2010-12-31",
+      "summary": "Création de l'association et organisation d'expositions de photographies.",
+      "highlights": [
+        "Lancement d'une association culturelle",
+        "Mise en place d’expositions thématiques"
+      ]
+    },
+    {
+      "organization": "AMU",
+      "position": "Manager de communauté",
+      "startDate": "2015-12-31",
+      "endDate": null,
+      "summary": "Animation des réseaux sociaux, production de visuels et d'articles, gestion du site internet.",
+      "highlights": [
+        "Augmentation de l'engagement sur les réseaux sociaux",
+        "Enrichissement du contenu éditorial"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "OpenClassrooms",
+      "url": "https://openclassrooms.com",
+      "area": "Programmation / Développeur informatique, général",
+      "studyType": "RNCP - Développeur d'application (PHP / Symfony)",
+      "startDate": "2019-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MFR Saint-Egrève",
+      "url": "",
+      "area": "Informatique - Administrateur Réseaux",
+      "studyType": "BTS Informatique de Gestion : Administrateur Réseaux",
+      "startDate": "2004-12-31",
+      "endDate": "2006-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Marius Bouvier",
+      "url": "",
+      "area": "Technologie / Technicien en informatique",
+      "studyType": "Bac pro MRIM",
+      "startDate": "2002-12-31",
+      "endDate": "2004-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Découvrez le cloud avec Amazon Web Services",
+      "issuer": "OpenClassrooms",
+      "date": "2020-10-31",
+      "url": "https://openclassrooms.com/fr/course-certificates/3617934784"
+    },
+    {
+      "name": "Testez et suivez l'état de votre application PHP",
+      "issuer": "OpenClassrooms",
+      "date": "2020-10-31",
+      "url": "https://openclassrooms.com/fr/course-certificates/2388933402"
+    },
+    {
+      "name": "Testez fonctionnellement votre application Symfony",
+      "issuer": "OpenClassrooms",
+      "date": "2020-10-31",
+      "url": "https://openclassrooms.com/fr/course-certificates/6277883014"
+    },
+    {
+      "name": "Adoptez les API REST pour vos projets web",
+      "issuer": "OpenClassrooms",
+      "date": "2020-08-31",
+      "url": "https://openclassrooms.com/fr/course-certificates/8434791844"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Expert",
+      "keywords": ["Symfony", "OOP", "Tests unitaires"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Avancé",
+      "keywords": ["CI/CD", "Docker", "GitOps", "Observabilité"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Avancé",
+      "keywords": ["Azure", "AWS", "Infrastructure as Code"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Montagne",
+      "keywords": ["Randonnée", "Exploration"]
+    },
+    {
+      "name": "Lecture",
+      "keywords": ["Technologie", "Innovations"]
+    },
+    {
+      "name": "Aventure",
+      "keywords": ["Voyages", "Découverte"]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Formation : Découvrez Symfony 7 en 7 projets !",
+      "isActive": false,
+      "description": "Formation pour découvrir Symfony 7 via des projets concrets, destinée aux débutants et aux profils cherchant les nouveautés du framework.",
+      "highlights": [
+        "Approche pratique par projets",
+        "Couverture des nouveautés de Symfony 7"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyPDF",
+      "isActive": false,
+      "description": "API NodeJS pour fusionner documents .docx et données JSON en PDF, alternative légère à Docupilot.",
+      "highlights": [
+        "Facilite la création de templates PDF",
+        "API flexible"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "FarmPilot (SaaS)",
+      "isActive": false,
+      "description": "SaaS pour les coopératives agricoles : gestion de campagnes de récolte, parcelles, contrats, signature électronique, reporting.",
+      "highlights": [
+        "Backend Symfony",
+        "Intégration Supabase, Postgres"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyCopro",
+      "isActive": false,
+      "description": "Portail extranet pour copropriétaires. Stack : Symfony, Bootstrap, RabbitMQ.",
+      "highlights": [
+        "Information centralisée",
+        "Notifications événements"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyAnnonce",
+      "isActive": false,
+      "description": "Backend d'une application d'affichage d'annonces immobilières avec fonctionnalités de recherche avancée et notifications.",
+      "highlights": [
+        "Symfony, Postgres, API Ubiflow",
+        "Gestion des critères de recherche et notifications"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyDiag",
+      "isActive": false,
+      "description": "Application de centralisation de certificats et diagnostics énergétiques (Gaz, électricité).",
+      "highlights": [
+        "Symfony Full Stack, Docker",
+        "Intégration d'APIs de diagnostiqueurs"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyHab",
+      "isActive": false,
+      "description": "Application (API) de centralisation des habilitations internes. Stack : Symfony, API MS Graph, SSO O365.",
+      "highlights": [
+        "Centralisation des habilitations",
+        "Intégration MS Graph"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyInfra",
+      "isActive": false,
+      "description": "Application de centralisation de l'infrastructure cloud. État temps réel, scan vulnérabilités, délégation de tâches.",
+      "highlights": [
+        "Symfony Full Stack, PicoCSS, Trivy, Docker, Jelastic",
+        "Gestion simplifiée des environnements cloud"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "Cronify",
+      "isActive": false,
+      "description": "Outil simple pour monitorer l'exécution des cron jobs.",
+      "highlights": [
+        "Surveillance des cron jobs",
+        "Disponible sur GitHub"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "Roadmap Dev Symfony",
+      "isActive": false,
+      "description": "Roadmap collaborative pour devenir développeur Symfony. Disponible en ligne.",
+      "highlights": [
+        "Roadmap complète",
+        "Accessible sur GitHub"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "Airtable Client Bundle",
+      "isActive": false,
+      "description": "Bundle Symfony facilitant l'utilisation de l'API Airtable.",
+      "highlights": [
+        "Intégration aisée de l'API Airtable",
+        "Projet open source sur GitHub"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyStockMe",
+      "isActive": false,
+      "description": "Application de gestion d'assets (cycle de vie, commande, recyclage). Stack : Symfony Full Stack, Docker.",
+      "highlights": [
+        "Gestion complète du cycle de vie des assets",
+        "Déploiement Docker"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "SOSapp",
+      "isActive": false,
+      "description": "Application de déclaration et prévention des agressions pour les salariés. Symfony Full Stack, Tailwind CSS, SSO O365.",
+      "highlights": [
+        "Sécurité et prévention au travail",
+        "Intégration SSO Office 365"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "VibrantVisionsAI",
+      "isActive": false,
+      "description": "Site statique (Astro/Tailwind) présentant des fonds d'écran pour smartphone générés avec Dall-E 3.",
+      "highlights": [
+        "Génération d'images IA",
+        "Astro / Tailwind CSS"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "Enter to the Matrix (with Symfony Console)",
+      "isActive": false,
+      "description": "Reproduction de l'effet 'Matrix characterfall' avec Symfony Console.",
+      "highlights": [
+        "Effet visuel immersif en console",
+        "Exemple d'utilisation avancée de Symfony Console"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "AlloHouston (IWS ISILOG)",
+      "isActive": false,
+      "description": "Outil de gestion de la demande interne, ouvert aux métiers hors IT. +15k demandes en 2 ans, ~500 utilisateurs.",
+      "highlights": [
+        "Gestion centralisée des demandes",
+        "Intégration avec IWS ISILOG"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "Formation : CI/CD pour les Devs (PHP) avec GitLab CI et GitHub Actions !",
+      "isActive": false,
+      "description": "Formation pour comprendre et mettre en œuvre des pipelines CI/CD avec GitLab CI ou GitHub Actions.",
+      "highlights": [
+        "CI/CD pour projets PHP",
+        "GitLab CI / GitHub Actions"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "Formation : Un environnement de travail Symfony avec Linux et Docker",
+      "isActive": false,
+      "description": "Formation pour mettre en place un environnement de travail Symfony efficace avec Linux et Docker.",
+      "highlights": [
+        "Configuration rapide",
+        "Productivité accrue"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "GoJelastic",
+      "isActive": false,
+      "description": "Rewrite de l'outil CLI Jelastic en Go, plus léger et portable, idéal pour CI/CD.",
+      "highlights": [
+        "Outil CLI en Go",
+        "Intégration facilitée en CI/CD"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    },
+    {
+      "name": "HapplyFluide",
+      "isActive": false,
+      "description": "Backend d'une application de gestion technique et comptable des fluides (eau, etc.). Stack : Symfony, Postgres.",
+      "highlights": [
+        "Gestion avancée des fluides",
+        "Symfony + Postgres"
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
+    }
+  ]
+}
